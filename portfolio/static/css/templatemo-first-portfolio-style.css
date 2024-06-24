@@ -650,6 +650,12 @@ strong {
   margin-bottom: -50px;
 }
 
+
+.services-thumb-center {
+  position: relative;
+  align-items: center;
+}
+
 .services-thumb:hover {
   border: 2px solid var(--secondary-color);
   box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
